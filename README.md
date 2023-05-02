@@ -1,15 +1,7 @@
 # Machine Learning Course notes
 Here, you can see some notes about Machine Learning course by [Analytics Vidhya](https://www.analyticsvidhya.com/). Hope you find useful.
 
-Some models you will learn in this course notes:
-
-    1. KNN
-    2. Linear Regression
-    3. Logistic Regression
-    4. Decision Tree
-
 You will be going through:
-  
     1. Data Structure
     2. List []
     3. Tuples ()
@@ -29,3 +21,16 @@ You will be going through:
     17. Linear Models
     18. Decision Tree
     19. Feature Engineering
+    
+Some models you will learn in this course notes:
+    1. KNN
+    2. Linear Regression
+    3. Logistic Regression
+    4. Decision Tree
+
+Most libraries used in this course:
+    1. Numpy
+    2. Pandas
+    3. Matplotlib
+    4. Scikit-Learn
+    5. Seaborn

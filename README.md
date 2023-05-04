@@ -37,5 +37,4 @@ Most libraries used in this course:
 3. Matplotlib
 4. Scikit-Learn
 5. Seaborn
-6. Datetime
 7. Featuretools
